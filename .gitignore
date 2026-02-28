@@ -1,0 +1,78 @@
+# 编译输出文件
+*.exe
+*.obj
+*.o
+*.lib
+*.dll
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.manifest
+*.exe.manifest
+
+# Visual Studio 相关
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+Release/
+x64/
+x86/
+Win32/
+ipch/
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+
+# Code::Blocks 相关
+*.layout
+*.depend
+*.cbTemp/
+obj/
+bin/
+
+# MinGW/Dev-C++ 相关
+*.dev
+*.layout
+*.depend
+*.o.d
+*.d
+PCH/
+deps/
+
+# 备份文件
+*.bak
+*.tmp
+*.temp
+*~
+
+# 日志文件
+*.log
+
+# 控制文件示例（如果不想上传空控制文件，可以取消注释）
+# 开机自启
+# 关机
+# 重启
+# 挂起
+# 强制挂起
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+$RECYCLE.BIN/
+
+# 其他
+*.swp
+*.swo
+*.*~
+*.orig
+*.patch
+*.m~
