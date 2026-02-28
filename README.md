@@ -1,5 +1,5 @@
 
-# USB Auto Ejector
+# USB Auto Ejector（USB自动弹出器）
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Windows](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com)
@@ -94,6 +94,7 @@ g++ -o DisableAutoStart.exe src/DisableAutoStart.cpp -ladvapi32 -static
 
 
 本程序仅供学习交流使用，请勿用于非法用途。使用本程序所产生的一切后果由使用者自行承担。
+
 
 
 
